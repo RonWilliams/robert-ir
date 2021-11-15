@@ -1,0 +1,10 @@
+/* 
+ This CSS file is used to override the existing styles of the theme.
+ You can change the article headings, fonts, colors, etc.
+*/
+.front-main h1 {
+    font-size: 2em;
+}
+.front-main p {
+    margin-bottom: 1.2em;
+}
