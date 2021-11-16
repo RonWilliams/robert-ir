@@ -36,7 +36,7 @@
     <div class="mx-3 col-span-3 lg:col-span-2 px-2">
         <h1 class="title text-5xl mb-4">{{.Title}}</h1>
         <div class="content py-1">{{.Content}}</div>
-        {{ $paginator := .Paginate (where .Data.Pages "Type" "in" site.Params.mainSections) 6 }}
+        {{ $paginator := .Paginate (where .Data.Pages "Type" "in" site.Params.mainSections) 25 }}
         {{ range $paginator.Pages }}
             <div>{{ partial "summary.html" . }}</div>
         {{ end }}
