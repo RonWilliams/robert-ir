@@ -8,3 +8,8 @@
 .front-main p {
     margin-bottom: 1.2em;
 }
+
+.content .sources-page p { 
+    margin-left: 3em;
+    text-indent: -3em;
+}
