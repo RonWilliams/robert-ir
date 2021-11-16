@@ -9,6 +9,7 @@ relativeURLs = true
 # Please enable this feature if the site is available in Japanese, Chinese or Korean.
 #hasCJKLanguage = true
 
+
 # If you're using Google Analytics, you can enable this feature.
 #googleAnalytics = "UA-12345678-1"
 
@@ -19,7 +20,7 @@ relativeURLs = true
 unsafe= true
 
 [params]
-
+  mainSections =  ["timeline", "books"]
   [params.logo]
     main = "img/logo/logo.svg"
     alt = "Tella Logo"
@@ -52,9 +53,9 @@ unsafe= true
     weight = 1
 
   [[menu.main]]
-    identifier = "products"
-    name = "Products"
-    url = "/products/"
+    identifier = "books"
+    name = "Books"
+    url = "/books/"
     weight = 2
 
   [[menu.main]]
@@ -76,15 +77,36 @@ unsafe= true
     weight = 5
 
   # Footer Menu
+
   [[menu.footer]]
+    identifier = "home"
     name = "Home"
     url = "/"
-      weight = 1
+    weight = 1
 
   [[menu.footer]]
-    name = "Github"
-    url = "https://github.com/opera7133/tella"
-      weight = 2
+    identifier = "books"
+    name = "Books"
+    url = "/books/"
+    weight = 2
+
+  [[menu.footer]]
+    identifier = "timeline"
+    name = "Timeline"
+    url = "/timeline/"
+    weight = 3
+
+  [[menu.footer]]
+    identifier = "author"
+    name = "Author"
+    url = "/author/"
+    weight = 4
+
+  [[menu.footer]]
+    identifier = "sources"
+    name = "Sources"
+    url = "/sources/"
+    weight = 5
 
 [build]
-  writeStats = true
+  writeStats = false
