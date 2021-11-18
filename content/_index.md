@@ -2,6 +2,8 @@
 author = ""
 +++
 
+
+
 # Introduction to the Industrial Revolution
 The most tremendous and valuable shift in the development of modern human history is industrialization. The first Industrial Revolution began in Great Britain in 1760. It started spreading to other parts of Europe and North America in the early 1800s. By 1840, industrialization had become widespread around the world. The Industrial Revolution transformed economies that had been based on agriculture and handicrafts into economies based on large-scale industry, mechanized manufacturing, and the factory system. New machines, new power sources, and new ways of organizing work made existing industries more productive and efficient. The global reorganization spawned by the Industrial Revolution generated both benefits and detriments. An in-depth discussion into these matters cannot be held though without knowing the causes of the Industrial Revolution.
 
@@ -21,7 +23,7 @@ There are debatably several main causes of the Industrial Revolution, but the on
 # Benefits of the Industrial Revolution
 The Industrial Revolution was a period when machine power/manufacturing was substituted for human power. The advancements and changes in technology made it more economical to manufacture goods in factories than at home, which fundamentally transformed society. This societal change that ended the dominance of agriculture continues today. Some of the advantages of the Industrial Revolution were the evolution of labor-saving inventions, more affordable and accessible goods, increased job opportunities, enhanced wealth and quality of life, the evolution of medicine, and the rise of specialized positions. 
 
-Labor-saving inventions were developed and rapidly produced. New types of tools and machines were used on farms and revolutionized the industry because they allowed for much more efficiency in planting and harvesting crops. Additionally, other inventions, as seen on the timeline, meant advances in manufacturing to enable people to no longer have to physically exert themselves to get the work done.
+Labor-saving inventions were developed and rapidly produced. New types of tools and machines were used on farms and revolutionized the industry because they allowed for much more efficiency in planting and harvesting crops. Additionally, other inventions, as seen on the [timeline](/timeline/), meant advances in manufacturing to enable people to no longer have to physically exert themselves to get the work done.
 
 Factories and manufacturing facilities were built to enable goods to be more affordable and accessible. The machines within these factories produced items faster and cheaper than could have ever been accomplished by hand, which increased production and efficiency. Machines also made significant improvements in quality because the machines worked more accurately than a person would have. As stated by the principles of supply and demand, as the surplus of various items increased, the cost to the consumer decreased making goods more affordable. Additionally, the new transportation invented during the Industrial Revolution made it easier and cheaper to transport goods, which allowed businesses to create an international presence for their commodities. 
 
@@ -48,3 +50,11 @@ Since the Industrial Revolution saw the rise of factories in need of workers, ch
 
 # Conclusion to the Industrial Revolution
 In conclusion, there is no doubt that the Industrial Revolution had a major impact on the transformation of Great Britain and the entire world. The advantages and shortcomings of this generation are a struggle. On one side, we have the fact that our society wouldn’t be where it is today without it. On the other side, our society may not be able to continue to exist because of it. However, one thing that must be done is to continue to focus on innovation without compromising safety or value. If we can do this, then we can continue to enjoy the benefits that the Industrial Revolution has provided.
+
+
+{{< css.inline >}}
+<style>
+.front-main a {
+	color: #7f7fff
+}
+{{< /css.inline >}}
