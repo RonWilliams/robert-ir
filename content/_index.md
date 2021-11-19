@@ -55,6 +55,7 @@ In conclusion, there is no doubt that the Industrial Revolution had a major impa
 {{< css.inline >}}
 <style>
 .front-main a {
-	color: #7f7fff
+	color: #7f7fff;
 }
+</style>
 {{< /css.inline >}}
